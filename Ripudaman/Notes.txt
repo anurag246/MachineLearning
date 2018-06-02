@@ -1,0 +1,27 @@
+This is my first Website using Microsoft Azure!
+
+#1. Some points for discussion:-
+
+1.Mean = sun of data points / number of data points N
+
+2. squareDiff = (datapoint -mean) square
+
+3. variance = Sum of squqred diff / N
+
+for sample variance = Sum of squqred diff / N-1
+
+4. Std deviation = square root of variance
+
+Plus , minus of SD will give you range and tell you how much data could deviate from its mean!
+
+- the close it is to zero the less variance and the less SD.
+
+- the higer the number more SD, the more volatile the data will be , more unpredictible.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#2. This is the position that we spoke about.
+
+https://www.amazon.jobs/en/jobs/632521/database-specialty-architect
+
+There are many similar positions, please go to amazon web site and check all the remote position. search for oracle or data keyword.

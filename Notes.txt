@@ -1,0 +1,4 @@
+Classifier vs Regressor
+
+Types of Classifier - Decision Tree, Random Forest
+Types of Regressor - Linear Regression, Logistic Regression
